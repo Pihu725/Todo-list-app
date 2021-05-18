@@ -1,0 +1,12 @@
+img {
+ position: inherit;
+  width: 120px;
+}
+.navbar{
+ height: 70px;
+}
+
+.container{
+  padding-bottom: 10px;
+}
+
